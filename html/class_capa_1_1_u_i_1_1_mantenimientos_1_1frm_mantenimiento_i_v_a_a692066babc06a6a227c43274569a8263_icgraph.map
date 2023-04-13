@@ -1,0 +1,9 @@
+<map id="Capa.UI.Mantenimientos.frmMantenimientoIVA.CambiarEstadoMantenimiento" name="Capa.UI.Mantenimientos.frmMantenimientoIVA.CambiarEstadoMantenimiento">
+<area shape="rect" id="node1" title="Cambia el estado de mantenimiento según el enum" alt="" coords="933,97,1155,153"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_i_v_a.html#a6d9f60dda76c798ec39d374c57e10b56" title="guarda el registro en la base de datos" alt="" coords="629,5,859,47"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_i_v_a.html#a5e5609182201f8a12726c62407c6eebe" title="Selecciona el registro de la tabla para editarlo" alt="" coords="609,71,879,112"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_i_v_a.html#a840b844e1cfac14ade5e31c41b88c811" title=" " alt="" coords="603,136,885,177"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_i_v_a.html#a18c670625cdfdc99f5cfffbbb782d4f5" title="Limpia los campos por medio del método cambiar estado mantenimiento" alt="" coords="609,201,879,243"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_i_v_a.html#a992bbd018c71d93ed7204f718a20236e" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="309,104,555,145"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_i_v_a.html#abc714b91f944d553d2fe7fca0eb5933c" title=" " alt="" coords="5,104,261,145"/>
+</map>

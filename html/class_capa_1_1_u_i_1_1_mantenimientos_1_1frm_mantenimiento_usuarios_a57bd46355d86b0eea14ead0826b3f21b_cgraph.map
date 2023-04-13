@@ -1,0 +1,10 @@
+<map id="Capa.UI.Mantenimientos.frmMantenimientoUsuarios.btnAceptar_Click" name="Capa.UI.Mantenimientos.frmMantenimientoUsuarios.btnAceptar_Click">
+<area shape="rect" id="node1" title="Verifica que los datos estén correctos y elimina o actualiza según lo escogido por el usuario" alt="" coords="5,104,267,145"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#ae7ce10a61845e027c610405c95541f4a" title="Método que limpia y bloquea los campos según el enum" alt="" coords="315,23,565,79"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#ab0730c2bbfc36d545d3764cbad7c54d3" title="Llena los combobox y la tabla" alt="" coords="316,104,564,145"/>
+<area shape="rect" id="node8" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#a6683efcd567491b01d520123a6e68df6" title=" " alt="" coords="339,170,541,197"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_genero_b_l_l.html#a23e0d940d9a1788df66066d743d65527" title=" " alt="" coords="615,5,815,47"/>
+<area shape="rect" id="node5" href="$interface_interfaces_1_1_i_pais_b_l_l.html#ab7b8ad40a683108442d92b1460d92731" title=" " alt="" coords="623,71,807,112"/>
+<area shape="rect" id="node6" href="$interface_interfaces_1_1_i_tipo_usuario_b_l_l.html#a6821de85e10f27cdeb4cb9346ef03ca5" title=" " alt="" coords="625,136,805,177"/>
+<area shape="rect" id="node7" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#a79eef4220b255bec8b72f7990db0feba" title=" " alt="" coords="613,201,816,243"/>
+</map>

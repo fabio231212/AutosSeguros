@@ -1,0 +1,7 @@
+<map id="Capa.UI.Facturacion.frmFacturacion.toolStripBtnFacturar_Click" name="Capa.UI.Facturacion.frmFacturacion.toolStripBtnFacturar_Click">
+<area shape="rect" id="node1" title="Este método termina de llenar la factura con los datos para poder ser enviado a la capa lógica y de a..." alt="" coords="5,93,260,135"/>
+<area shape="rect" id="node2" href="$interface_interfaces_1_1_i_poliza_b_l_l.html#acc86af5a9e5d65812d60414a97ee799e" title=" " alt="" coords="351,5,520,47"/>
+<area shape="rect" id="node3" href="$interface_interfaces_1_1_i_factura_b_l_l.html#a3dbad981009139e8b8f3bf6f4a6cbc97" title=" " alt="" coords="336,71,535,98"/>
+<area shape="rect" id="node4" href="$class_quick_response.html#a38bb20b5f961029a6536de10b11c5603" title="Método que devuelve un la imagen generada El primer parámetro es la palabra(s) a convertir y el segun..." alt="" coords="330,123,541,164"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_u_i_1_1_facturacion_1_1frm_facturacion.html#a1d3b5fd4bcba1bde10921bd8e5c07548" title="Este ,método limpia todos los campos del frame para poder facturar nuevamente" alt="" coords="308,188,563,229"/>
+</map>

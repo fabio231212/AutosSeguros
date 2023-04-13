@@ -1,0 +1,6 @@
+<map id="Capa.UI.Facturacion.frmFacturacion.CargarDatos" name="Capa.UI.Facturacion.frmFacturacion.CargarDatos">
+<area shape="rect" id="node1" title="Este métodoc carga los datos que son llamados desde la base de datos y los coloca en sus respectivos ..." alt="" coords="5,71,240,112"/>
+<area shape="rect" id="node2" href="$interface_interfaces_1_1_i_tarjeta_b_l_l.html#abadafbba8566ac924d9a42f2e2407b3e" title=" " alt="" coords="288,5,485,47"/>
+<area shape="rect" id="node3" href="$interface_interfaces_1_1_i_tipo_pago_b_l_l.html#aedbf31a0b0472657aa270c116a2fc157" title=" " alt="" coords="303,71,470,112"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_tipo_poliza_b_l_l.html#ac6074098f729feb37abc13ad3689344e" title=" " alt="" coords="301,136,473,177"/>
+</map>

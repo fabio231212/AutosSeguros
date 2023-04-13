@@ -1,0 +1,14 @@
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\BLL.dll
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\BLL.pdb
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\DAL.dll
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\Entities.dll
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\Interfaces.dll
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\DAL.pdb
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\Entities.pdb
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\Entities.dll.config
+C:\proyectos\prograIII\AppAutosSeguro\BLL\bin\Debug\Interfaces.pdb
+C:\proyectos\prograIII\AppAutosSeguro\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\proyectos\prograIII\AppAutosSeguro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\proyectos\prograIII\AppAutosSeguro\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\proyectos\prograIII\AppAutosSeguro\BLL\obj\Debug\BLL.dll
+C:\proyectos\prograIII\AppAutosSeguro\BLL\obj\Debug\BLL.pdb

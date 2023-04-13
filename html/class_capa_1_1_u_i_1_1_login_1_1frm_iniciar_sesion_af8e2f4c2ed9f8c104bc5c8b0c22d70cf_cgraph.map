@@ -1,0 +1,15 @@
+<map id="Capa.UI.Login.frmIniciarSesion.frmIniciarSesion" name="Capa.UI.Login.frmIniciarSesion.frmIniciarSesion">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,164,243"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#a2ce5007ad4a30ed43303b41a0f7d9f6c" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="212,201,391,243"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#a2f6438e50c8ec3fab4b01d55793c85a0" title=" " alt="" coords="456,5,615,47"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#afa9cc4fe78c559cedaff431eee4badb7" title="Este método valida que los campos de correo y clave estén con datos, si es así, llama al bll y el bll..." alt="" coords="452,71,619,112"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#aa887f71f7b699373bf57511ee4306644" title="Minimiza el login" alt="" coords="447,136,623,177"/>
+<area shape="rect" id="node8" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#ac89c0fe6bec0faa3ce92bed6b6db79cb" title=" " alt="" coords="439,201,632,243"/>
+<area shape="rect" id="node9" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#a864d23a3b7d1efb3a85311490c264cde" title=" " alt="" coords="456,267,615,323"/>
+<area shape="rect" id="node12" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#af62dc419b81f6e74189fc192308d3503" title="este método trae el picture box de mostrar para el frente" alt="" coords="456,348,615,389"/>
+<area shape="rect" id="node13" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#af6d3c6f47ce16f79b60014c2d3758f01" title="este método trae el picture box de ocultar para el frente" alt="" coords="456,413,615,455"/>
+<area shape="rect" id="node5" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#ae8fdefa9d969c68f0d0dfc24f7038f8c" title=" " alt="" coords="680,39,883,80"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#a3d6da799f988fc76f215a247a39c6986" title="Este método se ejecuta cada vez que se vuelve al presente frame" alt="" coords="688,104,875,145"/>
+<area shape="rect" id="node10" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#a168278d89eceddfeca66c794164bbeb2" title="Usado para la movilidad por pantalla" alt="" coords="702,243,861,284"/>
+<area shape="rect" id="node11" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#ad7e114a14e8047034fd268573822d73e" title=" " alt="" coords="702,308,861,349"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Capa.UI.Mantenimientos.frmMantenimientoUsuarios.toolStripBtnEliminar_Click" name="Capa.UI.Mantenimientos.frmMantenimientoUsuarios.toolStripBtnEliminar_Click">
+<area shape="rect" id="node1" title="Elimina el registro seleccionado por medio del id" alt="" coords="5,97,216,153"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#ae7ce10a61845e027c610405c95541f4a" title="Método que limpia y bloquea los campos según el enum" alt="" coords="264,23,515,79"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#ab0730c2bbfc36d545d3764cbad7c54d3" title="Llena los combobox y la tabla" alt="" coords="265,104,513,145"/>
+<area shape="rect" id="node8" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#ab2223a6c6db12b2e9b56df8d2ebe557a" title=" " alt="" coords="288,170,491,197"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_genero_b_l_l.html#a23e0d940d9a1788df66066d743d65527" title=" " alt="" coords="564,5,764,47"/>
+<area shape="rect" id="node5" href="$interface_interfaces_1_1_i_pais_b_l_l.html#ab7b8ad40a683108442d92b1460d92731" title=" " alt="" coords="572,71,756,112"/>
+<area shape="rect" id="node6" href="$interface_interfaces_1_1_i_tipo_usuario_b_l_l.html#a6821de85e10f27cdeb4cb9346ef03ca5" title=" " alt="" coords="574,136,754,177"/>
+<area shape="rect" id="node7" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#a79eef4220b255bec8b72f7990db0feba" title=" " alt="" coords="563,201,765,243"/>
+</map>

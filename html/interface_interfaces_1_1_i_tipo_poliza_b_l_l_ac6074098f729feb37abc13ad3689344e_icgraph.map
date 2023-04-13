@@ -1,0 +1,13 @@
+<map id="Interfaces.ITipoPolizaBLL.ObtenerTipoPolizas" name="Interfaces.ITipoPolizaBLL.ObtenerTipoPolizas">
+<area shape="rect" id="node1" title=" " alt="" coords="1224,76,1396,117"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_facturacion_1_1frm_facturacion.html#acf37ad2e21b60f45153a6ac82f7e643e" title="Este métodoc carga los datos que son llamados desde la base de datos y los coloca en sus respectivos ..." alt="" coords="937,24,1172,65"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#ae668d74bf88be2a3f09a214c2a960d25" title="Cargar los datos de las tablas y combos" alt="" coords="933,108,1176,149"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_facturacion_1_1frm_facturacion.html#a3479537cc7b187247de4d4d794efc465" title="Carga el culture info para Costa Rica y invoca al método que carga los datos" alt="" coords="622,5,874,47"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_u_i_1_1_facturacion_1_1frm_facturacion.html#adbcd50f59fbbe013726bd4eb4e481ecf" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="328,5,563,47"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_u_i_1_1_facturacion_1_1frm_facturacion.html#aca02c6046046478877af1ffa8b94f409" title=" " alt="" coords="17,5,269,47"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a1609df7b938d3116fa91ffb61e4f6121" title="Valida los campos y actualiza los registros" alt="" coords="613,71,883,112"/>
+<area shape="rect" id="node10" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a2f3f07b3dbcbda40034b33464bd2ae7e" title="eveneto que se ejecuta al abrir el form" alt="" coords="611,137,885,193"/>
+<area shape="rect" id="node11" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a4ec6e9191d05675048d76d317bafc123" title="Elimina el tipo de poliza seleccionado" alt="" coords="639,217,857,273"/>
+<area shape="rect" id="node8" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a953ed76d50a6def7686662975b3ffd66" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="336,137,555,193"/>
+<area shape="rect" id="node9" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#af5e9e659009cfafd94e210be0ccb47e1" title=" " alt="" coords="5,137,280,193"/>
+</map>

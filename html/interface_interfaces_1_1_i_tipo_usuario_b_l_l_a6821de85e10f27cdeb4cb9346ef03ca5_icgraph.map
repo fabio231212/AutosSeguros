@@ -1,0 +1,9 @@
+<map id="Interfaces.ITipoUsuarioBLL.ObtenerTiposUsuarios" name="Interfaces.ITipoUsuarioBLL.ObtenerTiposUsuarios">
+<area shape="rect" id="node1" title=" " alt="" coords="1185,79,1365,120"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#ab0730c2bbfc36d545d3764cbad7c54d3" title="Llena los combobox y la tabla" alt="" coords="889,79,1137,120"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#a57bd46355d86b0eea14ead0826b3f21b" title="Verifica que los datos estén correctos y elimina o actualiza según lo escogido por el usuario" alt="" coords="578,5,839,47"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#aae0e64c92d2b662a6678110af5212197" title=" " alt="" coords="576,71,841,127"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#a9e9d5e423d6151573a0a1fd51912a468" title="Elimina el registro seleccionado por medio del id" alt="" coords="603,151,814,207"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#a17ac35cfcb959843f0afdece36547603" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="319,71,528,127"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_usuarios.html#a3d6841ebb8e933f6f208fcbaebe96470" title=" " alt="" coords="5,71,271,127"/>
+</map>

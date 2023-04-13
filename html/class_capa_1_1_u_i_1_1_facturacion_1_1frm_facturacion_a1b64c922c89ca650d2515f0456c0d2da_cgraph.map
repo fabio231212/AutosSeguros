@@ -1,0 +1,6 @@
+<map id="Capa.UI.Facturacion.frmFacturacion.cmbTipoPago_SelectionChangeCommitted" name="Capa.UI.Facturacion.frmFacturacion.cmbTipoPago_SelectionChangeCommitted">
+<area shape="rect" id="node1" title="Este método invoca al método calcula costo que trae el precio a pagar según el tipo de pago seleccion..." alt="" coords="5,71,264,112"/>
+<area shape="rect" id="node2" href="$classcapa_1_1_entidades_1_1_factura.html#aca60c400f3efa61cf1dda9281259cacd" title="Método que añade detalles de factura" alt="" coords="312,5,519,47"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_util_1_1_utilitarios.html#a24b3b1eae9ab4a24c49872b5c9dfee3e" title="Método que calcula el total en colones por medio del valor obtenido de la página de indicadores econó..." alt="" coords="339,71,492,112"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_tipo_pago_b_l_l.html#ac9997dc81300462c7edf9d5d2e863dfd" title=" " alt="" coords="332,136,499,177"/>
+</map>

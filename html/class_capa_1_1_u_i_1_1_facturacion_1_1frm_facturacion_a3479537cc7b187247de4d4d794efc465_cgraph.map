@@ -1,0 +1,8 @@
+<map id="Capa.UI.Facturacion.frmFacturacion.frmFacturacion_Load" name="Capa.UI.Facturacion.frmFacturacion.frmFacturacion_Load">
+<area shape="rect" id="node1" title="Carga el culture info para Costa Rica y invoca al método que carga los datos" alt="" coords="5,116,257,157"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_facturacion_1_1frm_facturacion.html#acf37ad2e21b60f45153a6ac82f7e643e" title="Este métodoc carga los datos que son llamados desde la base de datos y los coloca en sus respectivos ..." alt="" coords="305,71,540,112"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_u_i_1_1_util_1_1_utilitarios.html#a510656f602948dd641644061604ad03e" title="Colocar Cultura Estandar para Costa Rica" alt="" coords="346,160,499,201"/>
+<area shape="rect" id="node3" href="$interface_interfaces_1_1_i_tarjeta_b_l_l.html#abadafbba8566ac924d9a42f2e2407b3e" title=" " alt="" coords="588,5,785,47"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_tipo_pago_b_l_l.html#aedbf31a0b0472657aa270c116a2fc157" title=" " alt="" coords="603,71,770,112"/>
+<area shape="rect" id="node5" href="$interface_interfaces_1_1_i_tipo_poliza_b_l_l.html#ac6074098f729feb37abc13ad3689344e" title=" " alt="" coords="601,136,773,177"/>
+</map>

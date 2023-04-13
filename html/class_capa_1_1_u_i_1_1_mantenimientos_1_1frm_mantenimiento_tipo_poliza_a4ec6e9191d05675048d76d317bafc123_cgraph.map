@@ -1,0 +1,9 @@
+<map id="Capa.UI.Mantenimientos.frmMantenimientoTipoPoliza.toolStripBtnEliminar_Click" name="Capa.UI.Mantenimientos.frmMantenimientoTipoPoliza.toolStripBtnEliminar_Click">
+<area shape="rect" id="node1" title="Elimina el tipo de poliza seleccionado" alt="" coords="5,112,224,168"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a44a7acf249bf07ed94fd14ca156ade68" title=" " alt="" coords="284,5,503,61"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#ae668d74bf88be2a3f09a214c2a960d25" title="Cargar los datos de las tablas y combos" alt="" coords="272,86,515,127"/>
+<area shape="rect" id="node6" href="$interface_interfaces_1_1_i_tipo_poliza_b_l_l.html#a64167ad4b1bd49a0fca83248caabb411" title=" " alt="" coords="307,151,479,193"/>
+<area shape="rect" id="node7" href="$interface_interfaces_1_1_i_detalle_poliza_b_l_l.html#a8902edaa3260f0fd67989f4a4b01b030" title=" " alt="" coords="302,217,485,258"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_tipo_poliza_b_l_l.html#ac6074098f729feb37abc13ad3689344e" title=" " alt="" coords="563,54,735,95"/>
+<area shape="rect" id="node5" href="$interface_interfaces_1_1_i_cobertura_b_l_l.html#a8189b41d890695a6f811c76db4f92ede" title=" " alt="" coords="565,119,733,161"/>
+</map>

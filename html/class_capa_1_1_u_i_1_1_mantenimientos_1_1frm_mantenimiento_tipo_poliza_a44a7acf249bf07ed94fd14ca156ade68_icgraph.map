@@ -1,0 +1,10 @@
+<map id="Capa.UI.Mantenimientos.frmMantenimientoTipoPoliza.CambiarEstadoMantenimiento" name="Capa.UI.Mantenimientos.frmMantenimientoTipoPoliza.CambiarEstadoMantenimiento">
+<area shape="rect" id="node1" title=" " alt="" coords="919,137,1137,193"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a1609df7b938d3116fa91ffb61e4f6121" title="Valida los campos y actualiza los registros" alt="" coords="597,5,868,47"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a1f4b584c761007115b020ee54486b53d" title="Cancela la ejecución y limpia los campos" alt="" coords="595,71,871,112"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a6231a8faf974add333234c4873e8997f" title="Selecciona el tipo de poliza y lo elimina" alt="" coords="623,137,842,193"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a4ec6e9191d05675048d76d317bafc123" title="Elimina el tipo de poliza seleccionado" alt="" coords="623,217,842,273"/>
+<area shape="rect" id="node8" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#afa518a9ffcd1b3053a7a8e35d09a444b" title=" " alt="" coords="623,297,842,353"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#a953ed76d50a6def7686662975b3ffd66" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="328,137,547,193"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#af5e9e659009cfafd94e210be0ccb47e1" title=" " alt="" coords="5,137,280,193"/>
+</map>

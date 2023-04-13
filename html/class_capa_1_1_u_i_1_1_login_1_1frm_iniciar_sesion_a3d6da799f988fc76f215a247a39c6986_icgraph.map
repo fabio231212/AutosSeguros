@@ -1,0 +1,6 @@
+<map id="Capa.UI.Login.frmIniciarSesion.VolverInicioDeSesion" name="Capa.UI.Login.frmIniciarSesion.VolverInicioDeSesion">
+<area shape="rect" id="node1" title="Este método se ejecuta cada vez que se vuelve al presente frame" alt="" coords="653,5,840,47"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#afa9cc4fe78c559cedaff431eee4badb7" title="Este método valida que los campos de correo y clave estén con datos, si es así, llama al bll y el bll..." alt="" coords="439,5,605,47"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#a2ce5007ad4a30ed43303b41a0f7d9f6c" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="212,5,391,47"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#af8e2f4c2ed9f8c104bc5c8b0c22d70cf" title=" " alt="" coords="5,5,164,47"/>
+</map>

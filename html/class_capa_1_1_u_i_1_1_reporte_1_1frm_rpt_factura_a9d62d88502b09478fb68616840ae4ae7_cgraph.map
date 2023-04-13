@@ -1,0 +1,6 @@
+<map id="Capa.UI.Reporte.frmRptFactura.EnviarEmail_Click" name="Capa.UI.Reporte.frmRptFactura.EnviarEmail_Click">
+<area shape="rect" id="node1" title="Este método es el que invoca al método que yo quiero que sea asíncrono por lo tanto tiene que llevar ..." alt="" coords="5,39,212,80"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_reporte_1_1frm_rpt_factura.html#a4df7e3c0d350652915cf211bf8a122ac" title="Método que ejecuta la lógica asincrónicamente para enviar el correo electrónico al destinatario...." alt="" coords="260,39,467,80"/>
+<area shape="rect" id="node3" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#a0f50460fbd463e2b386a05f7eeb0e271" title=" " alt="" coords="527,5,705,47"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#a46d134d2d2b8c1aef815f2d71e49536c" title=" " alt="" coords="515,71,717,112"/>
+</map>

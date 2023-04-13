@@ -1,0 +1,60 @@
+# Visual Studio 2015/2017 cache directory
+.vs/
+
+# bin and obj folders
+bin/
+obj/
+
+# .NET Core build output
+**/bin/
+**/obj/
+
+# build output
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# MSTest test Results
+[TestResults]
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+
+# Resharper files
+_ReSharper*/
+
+# GhostDoc plugin setting file
+GhostDoc.settings
+
+# Visual Studio Code project files
+.vscode/
+
+# App specific files
+App.config
+
+# Packages
+*.nupkg
+packages/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.bak
+*.trn
+
+# Log Files
+*.log

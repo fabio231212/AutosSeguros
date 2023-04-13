@@ -1,0 +1,5 @@
+<map id="BLL.FacturaBLL.Insertar" name="BLL.FacturaBLL.Insertar">
+<area shape="rect" id="node1" title="Validaciones para ver si el usuario cumple con los requisitos mínimos para obtener una poliza" alt="" coords="5,42,168,69"/>
+<area shape="rect" id="node2" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#a0f50460fbd463e2b386a05f7eeb0e271" title=" " alt="" coords="228,5,405,47"/>
+<area shape="rect" id="node3" href="$interface_interfaces_1_1_i_factura_d_a_l.html#adb9c77b7d73828d72f6f6fae19a5676e" title=" " alt="" coords="216,71,417,98"/>
+</map>

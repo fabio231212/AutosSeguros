@@ -1,0 +1,10 @@
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\bin\Debug\Interfaces.dll
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\bin\Debug\Interfaces.pdb
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\bin\Debug\Entities.dll
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\bin\Debug\Entities.pdb
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\bin\Debug\Entities.dll.config
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\obj\Debug\Interfaces.dll
+C:\proyectos\prograIII\AppAutosSeguro\Interfaces\obj\Debug\Interfaces.pdb

@@ -1,0 +1,7 @@
+<map id="Capa.UI.Mantenimientos.frmMantenimientoAnulaFac.toolStripBtnEliminar_Click" name="Capa.UI.Mantenimientos.frmMantenimientoAnulaFac.toolStripBtnEliminar_Click">
+<area shape="rect" id="node1" title="Selecciona el registro y anula la factura" alt="" coords="5,31,220,87"/>
+<area shape="rect" id="node2" href="$interface_interfaces_1_1_i_factura_b_l_l.html#a35628c1440be65318fc1319c6be79554" title=" " alt="" coords="291,5,484,47"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_anula_fac.html#a3b77a0d4ed10aee03b3ce28c4a62eef7" title="Carga los datos en las tablas" alt="" coords="268,71,507,112"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_factura_b_l_l.html#a4a21e6c1ae7d639513a32a65d19b46ee" title=" " alt="" coords="555,37,779,79"/>
+<area shape="rect" id="node5" href="$interface_interfaces_1_1_i_factura_b_l_l.html#a5074f7a6da48219eb5ef241362683367" title=" " alt="" coords="555,103,779,144"/>
+</map>

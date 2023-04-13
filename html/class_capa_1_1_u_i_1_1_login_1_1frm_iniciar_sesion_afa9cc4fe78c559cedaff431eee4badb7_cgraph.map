@@ -1,0 +1,5 @@
+<map id="Capa.UI.Login.frmIniciarSesion.btnIngresar_Click" name="Capa.UI.Login.frmIniciarSesion.btnIngresar_Click">
+<area shape="rect" id="node1" title="Este método valida que los campos de correo y clave estén con datos, si es así, llama al bll y el bll..." alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#ae8fdefa9d969c68f0d0dfc24f7038f8c" title=" " alt="" coords="220,5,423,47"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_login_1_1frm_iniciar_sesion.html#a3d6da799f988fc76f215a247a39c6986" title="Este método se ejecuta cada vez que se vuelve al presente frame" alt="" coords="228,71,415,112"/>
+</map>

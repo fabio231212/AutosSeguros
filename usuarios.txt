@@ -1,0 +1,9 @@
+admin 12345678
+reporteador 12345678
+procesos 12345678
+jose@gmail.com 12345678
+ana@gmail.com 12345678
+anpitama@est.utn.ac.cr 12345678
+
+usuario jose no puede tener poliza pq es menor de edad, validar intentando facturarle poliza
+pita no puede facturar pq tiene más de 12 pts acumulados en la licencia, validar intentándole facturar

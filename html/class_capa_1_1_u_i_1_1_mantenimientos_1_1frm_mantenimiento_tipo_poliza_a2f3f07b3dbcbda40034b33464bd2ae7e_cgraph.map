@@ -1,0 +1,6 @@
+<map id="Capa.UI.Mantenimientos.frmMantenimientoTipoPoliza.frmMantenimientoTipoPoliza_Load" name="Capa.UI.Mantenimientos.frmMantenimientoTipoPoliza.frmMantenimientoTipoPoliza_Load">
+<area shape="rect" id="node1" title="eveneto que se ejecuta al abrir el form" alt="" coords="5,31,280,87"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_tipo_poliza.html#ae668d74bf88be2a3f09a214c2a960d25" title="Cargar los datos de las tablas y combos" alt="" coords="328,39,571,80"/>
+<area shape="rect" id="node3" href="$interface_interfaces_1_1_i_tipo_poliza_b_l_l.html#ac6074098f729feb37abc13ad3689344e" title=" " alt="" coords="619,5,791,47"/>
+<area shape="rect" id="node4" href="$interface_interfaces_1_1_i_cobertura_b_l_l.html#a8189b41d890695a6f811c76db4f92ede" title=" " alt="" coords="621,71,789,112"/>
+</map>

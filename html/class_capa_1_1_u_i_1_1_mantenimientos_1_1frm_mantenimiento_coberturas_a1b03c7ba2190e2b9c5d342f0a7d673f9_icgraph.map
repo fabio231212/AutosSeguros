@@ -1,0 +1,9 @@
+<map id="Capa.UI.Mantenimientos.frmMantenimientoCoberturas.CambiarEstadoMantenimiento" name="Capa.UI.Mantenimientos.frmMantenimientoCoberturas.CambiarEstadoMantenimiento">
+<area shape="rect" id="node1" title="Cambia el estado matenimiento según el enum" alt="" coords="921,111,1144,167"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_coberturas.html#a8e68808b12b16b48ea807090a3aad1f4" title="Valida los campos, crea el objeto tipo cobertura y lo guarda en la base de datos" alt="" coords="600,5,873,47"/>
+<area shape="rect" id="node5" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_coberturas.html#af997d5c2635c4f8c3dcbe2cf4ee3e609" title="Selecciona el registro del dgv para editarlo" alt="" coords="625,71,848,127"/>
+<area shape="rect" id="node6" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_coberturas.html#a581ba3e44fa9385aebfe46a18e070494" title="Selecciona el registro para eliminarlo" alt="" coords="625,151,848,207"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_coberturas.html#a9cafc8669a93ba6cfe1736af0f49f069" title="Limpia los campos" alt="" coords="625,231,848,287"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_coberturas.html#a04e4d4a0452446226941e70a9d50f87f" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="331,111,552,167"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_u_i_1_1_mantenimientos_1_1frm_mantenimiento_coberturas.html#a2b8ed5aa65c235d1847e03e983e66a83" title=" " alt="" coords="5,111,283,167"/>
+</map>

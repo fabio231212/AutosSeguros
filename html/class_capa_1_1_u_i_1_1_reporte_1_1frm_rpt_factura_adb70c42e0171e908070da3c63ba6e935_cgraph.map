@@ -1,0 +1,10 @@
+<map id="Capa.UI.Reporte.frmRptFactura.frmRptFactura" name="Capa.UI.Reporte.frmRptFactura.frmRptFactura">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,231,145"/>
+<area shape="rect" id="node2" href="$class_capa_1_1_u_i_1_1_reporte_1_1frm_rpt_factura.html#acf6d46ead804c7b97dda52c4d0a8e42c" title="Required method for Designer support &#45; do not modify the contents of this method with the code editor..." alt="" coords="279,104,485,145"/>
+<area shape="rect" id="node3" href="$class_capa_1_1_u_i_1_1_reporte_1_1frm_rpt_factura.html#a9d62d88502b09478fb68616840ae4ae7" title="Este método es el que invoca al método que yo quiero que sea asíncrono por lo tanto tiene que llevar ..." alt="" coords="544,39,751,80"/>
+<area shape="rect" id="node7" href="$class_capa_1_1_u_i_1_1_reporte_1_1frm_rpt_factura.html#aa466723bb7e3d9bb358cc97381fdbcaa" title="Carga el reporte por medio del tableadapter" alt="" coords="535,104,760,145"/>
+<area shape="rect" id="node8" href="$class_capa_1_1_u_i_1_1_reporte_1_1frm_rpt_factura.html#a9a5d00d00253dcd338f0f896d1caca37" title=" " alt="" coords="533,169,761,211"/>
+<area shape="rect" id="node4" href="$class_capa_1_1_u_i_1_1_reporte_1_1frm_rpt_factura.html#a4df7e3c0d350652915cf211bf8a122ac" title="Método que ejecuta la lógica asincrónicamente para enviar el correo electrónico al destinatario...." alt="" coords="809,39,1016,80"/>
+<area shape="rect" id="node5" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#a0f50460fbd463e2b386a05f7eeb0e271" title=" " alt="" coords="1077,5,1254,47"/>
+<area shape="rect" id="node6" href="$interface_interfaces_1_1_i_usuario_b_l_l.html#a46d134d2d2b8c1aef815f2d71e49536c" title=" " alt="" coords="1064,71,1267,112"/>
+</map>
